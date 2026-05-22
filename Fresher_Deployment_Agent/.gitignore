@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+pyproject.toml
+
+# Environments
+.env
+myenv
+ENV/
+.venv/
+
+# Logs
+logs/
+*.log
+
+# Application Output
+output/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/

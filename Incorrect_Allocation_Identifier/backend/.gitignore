@@ -1,0 +1,13 @@
+# Python env and cache files
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Agent configuration/secrets
+.env
+
+# Generated data and reports
+Data/Merged_Prepared_Data.csv
+Data/IAI_ExceptionReport_*.xlsx

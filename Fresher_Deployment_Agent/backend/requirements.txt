@@ -1,0 +1,9 @@
+pandas
+openpyxl
+pytest
+fastapi
+uvicorn
+langgraph
+langchain-groq
+pydantic
+python-dotenv
